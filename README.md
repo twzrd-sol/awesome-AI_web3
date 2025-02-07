@@ -6,3 +6,4 @@ A curated list of awesome AI/Web 3.0.
 
 - [agentkit](https://github.com/coinbase/agentkit) - AgentKit is Coinbase Developer Platform's framework for easily enabling AI agents to take actions onchain.
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [OpenAgent](https://github.com/webisopen/OpenAgent) - a framework for rapidly launching functional AI agents powered by Open.
