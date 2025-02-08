@@ -5,5 +5,9 @@
 A curated list of awesome AI/Web 3.0.
 
 - [agentkit](https://github.com/coinbase/agentkit) - AgentKit is Coinbase Developer Platform's framework for easily enabling AI agents to take actions onchain.
+- [alith](https://github.com/0xLazAI/alith) - Simple, Composable, High-Performance and Web3 Friendly AI Agents for Everyone
+- [BSternAIChain](https://github.com/exvinityf/BSternAIChain) - An innovative platform combining Blockchain and AI for transparent and secure transactions.
+- [DecentralizedAIonIC](https://github.com/patnorris/DecentralizedAIonIC) - the browser-based AI chatbot app served from the Internet Computer.
+- [defai-protocol](https://github.com/davison30fps/defai-protocol) - Enable AI agents to understand and execute any DeFi protocol operations
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [OpenAgent](https://github.com/webisopen/OpenAgent) - a framework for rapidly launching functional AI agents powered by Open.
