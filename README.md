@@ -11,3 +11,4 @@ A curated list of awesome AI/Web 3.0.
 - [defai-protocol](https://github.com/davison30fps/defai-protocol) - Enable AI agents to understand and execute any DeFi protocol operations
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [OpenAgent](https://github.com/webisopen/OpenAgent) - a framework for rapidly launching functional AI agents powered by Open.
+- [orbitron-network](https://github.com/Orbitron-Network/orbitron-network) - an open-source layer-1 blockchain infrastructure built upon a Delegated Proof-of-Stake (DPoS) consensus model leveraging EVM, SVM, and zKEVM compilers for modular code deployment and Artificial Intelligence (AI) decentralization
