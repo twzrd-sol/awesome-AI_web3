@@ -15,3 +15,4 @@ A curated list of awesome AI/Web 3.0.
 - [nexqora](https://github.com/Beastdzns/nexqora) - Mutual Fund Aggregator x ccip x cctp x eliza os
 - [OpenAgent](https://github.com/webisopen/OpenAgent) - a framework for rapidly launching functional AI agents powered by Open.
 - [orbitron-network](https://github.com/Orbitron-Network/orbitron-network) - an open-source layer-1 blockchain infrastructure built upon a Delegated Proof-of-Stake (DPoS) consensus model leveraging EVM, SVM, and zKEVM compilers for modular code deployment and Artificial Intelligence (AI) decentralization
+- [Solana AI Multimodal Agent](https://github.com/jwest951227/Solana-AI-Agent-Multimodal) - a powerful generative library designed for seamless on-chain execution.
