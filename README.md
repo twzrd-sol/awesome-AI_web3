@@ -8,6 +8,7 @@ A curated list of awesome AI/Web 3.0.
 - [ai-agent-sdk](https://github.com/covalenthq/ai-agent-sdk) - Build autonomous AI agents for the Zero-Employee Enterprise (ZEE).
 - [alith](https://github.com/0xLazAI/alith) - Simple, Composable, High-Performance and Web3 Friendly AI Agents for Everyone
 - [BSternAIChain](https://github.com/exvinityf/BSternAIChain) - An innovative platform combining Blockchain and AI for transparent and secure transactions.
+- [RustChain](https://github.com/Scottcjn/RustChain) - Proof-of-Antiquity blockchain built in Rust where vintage hardware earns higher mining rewards via GPU hardware attestation. Ed25519 consensus. Website: rustchain.org
 - [DecentralizedAIonIC](https://github.com/patnorris/DecentralizedAIonIC) - the browser-based AI chatbot app served from the Internet Computer.
 - [defai-protocol](https://github.com/davison30fps/defai-protocol) - Enable AI agents to understand and execute any DeFi protocol operations
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
